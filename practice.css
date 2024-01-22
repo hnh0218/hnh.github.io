@@ -1,0 +1,34 @@
+h1{color:black;font-family:  Georgia, 'Times New Roman', Times, serif; text-align: center; font-style: italic; color-scheme: rgba(5, 5, 101, 0.368);
+border-style: groove;border-color: black;background-color: darkgray;}
+p{font-family: Georgia, 'Times New Roman', Times, serif; text-align: middle;}
+li{font-family: Georgia, 'Times New Roman', Times, serif;}
+img{display: block;}
+h3{font-family: monospace;
+border-color: black;border-style: solid;background-color: coral;}
+h6{font-family: Georgia, 'Times New Roman', Times, serif;}
+a{font-family: fantasy;color: teal;}
+.albumInfo{
+    background-color: sandybrown;
+   
+}
+.favoriteInfo{
+    background-color: sandybrown;
+    
+}
+.categoryInfo{
+    background-color: antiquewhite;
+    
+}
+
+   
+.fmInfo{
+ background-color: sandybrown;
+}
+.nextInfo{
+    color: brown;
+}
+html{background-color: antiquewhite;}
+h2{ font-family: monospace;color: black; border-style: solid; background-color: coral;}
+.HHE{ 
+    background-color: sandybrown;
+}

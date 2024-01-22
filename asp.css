@@ -1,0 +1,35 @@
+html{
+    background-image: url(backggg.png);background-size: cover;
+}
+h1 {
+    font-family: cursive;
+    text-align: center;
+    color: black;
+    background-color: darkorange;
+    border-style: groove;
+    border-color: black;
+}
+.backbutton{
+    background-color: black;
+    color: aliceblue;
+    margin-right: 575px;
+    border: radius 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subject {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    border-style: dashed;
+    border-color: black;
+
+}
+h5{
+    margin-left: 250px;
+    font-family: cursive;
+    border-color: sandybrown;
+    border-style: groove;
+    background-color: bisque;
+}
+.photo {
+    margin-left: 55px;
+}

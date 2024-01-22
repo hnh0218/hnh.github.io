@@ -1,0 +1,116 @@
+html {
+    background-image: url(images/background.png); background-size: cover;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: row;
+}
+
+.sidebar {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.backbutton {
+    background-color: black;
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 50px;
+}
+
+.homebutton {
+    background-color: rgb(33, 109, 171);
+    text-decoration: none;
+    color: #f0f8ff;
+    margin-right: 50px;
+;
+    
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.aboutmebutton {
+    background-color: salmon;
+    border-style: solid;
+    text-decoration: none;
+    color: black;
+    font-size: x-small;
+    margin-left: 25px;
+    margin-top: 50px;
+    font-family: serif;
+    font-weight: 900;
+    
+}
+
+.aspbutton {
+    background-color: sandybrown;
+    border-style: solid;
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+    margin-top: 10px;
+    font-family: serif;
+    font-weight: 900;
+}
+
+.schoolproject {
+    text-decoration: none;
+    background-color: seagreen;
+    border-style: solid;
+    color: black;
+    margin-left: 25px;
+    margin-top: 10px;
+    font-family: serif;
+    font-weight: 900;
+}
+
+h1 {
+    color: midnightblue;
+    background-color: seashell;
+    border-color: midnightblue;
+    border-style: groove;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 160px;
+    
+}
+img { margin-top: 50px;
+margin-left: 40px;}
+.quotation {
+    font-family: cursive;
+    margin-top: 50px;
+    font-style: italic;
+    font-style: oblique;
+    font-size: 2px;
+
+    
+}
+.paragraph { 
+    font-family: monospace;
+    background-color: wheat;
+    color: midnightblue;
+    margin-left: 20px;
+    margin-top: 40px;
+    text-align: right; 
+    border-style: groove;
+    border-color: black;
+    border-top-left-radius: 50px;
+}
+.Contact{
+    font-family: monospace;
+}
+.school{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: cornflowerblue;
+    margin-left: 20px;
+    border-style: groove;
+    border-color: black;
+    margin-top: 20px;
+    font-size: x-small;
+    border-top-right-radius: 50px;
+}
+.para{ 
+    font-family: monospace;
+}

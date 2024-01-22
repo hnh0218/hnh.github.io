@@ -1,0 +1,23 @@
+h1{font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(19, 56, 124);background-color: lightblue;
+font-style: italic;}
+p{font-family: 'Times New Roman', Times, serif;font-size: small;}
+h3{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;background-color: indianred;}
+ol{font-family: 'Times New Roman', Times, serif;}
+ul{font-family: 'Times New Roman', Times, serif;}
+img{border-style: solid;border-color: purple;}
+html{background-color;lighting-color: honeydew;}
+.AuthorInfo{
+    background-color: pink;
+}
+.chapterInfo{
+    background-color: pink;
+}
+.basicInfo{
+    background-color: lightblue;
+}
+html{
+    background-color: oldlace;
+}
+h2{
+    font-family: sans-serif;color: lightblue;border-style: dashed;background-color: rgb(19, 56, 124);
+}

@@ -1,0 +1,51 @@
+html { background-image: url(images/aboutback.png); background-size: cover;}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 250px;
+}
+.backbutton {
+    background-color: black;
+    color: aliceblue;
+    margin-right: 575px;
+    border: radius 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.homebutton { 
+    background-color: rgb(33, 109, 171);
+    color: aliceblue;
+    margin-right: 560px;
+    border: radius 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image {
+    margin-left: 100px;
+
+}
+.expla { 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-small;
+    margin-bottom: 10px;
+    background-color:thistle;
+    border-style: groove;
+    border-color: black;
+}
+.middle {
+    text-align: center;
+    font-size: x-large;
+}
+.sidebar {
+    margin
+}
+.photo {
+    align-items: text-align: top;
+}
+.info {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: palevioletred;
+    border-style: groove;
+    border-color: black;
+}
+.photo {
+    margin-left: 85px;
+}

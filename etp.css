@@ -1,0 +1,37 @@
+html {
+    background-image: url(images/etprojectback.png);background-size: cover;
+}
+.ai {
+    font-family: cursive;
+    color: black
+    border-color: bisque;
+    
+  
+    font-size: x-large;
+}
+.html {
+    font-family: cursive;
+  
+
+
+    
+    font-size: x-large;
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.project {
+    
+   
+    margin-left: 100px;
+    
+}
+.backbutton {
+    background-color: black;
+    color: aliceblue;
+    margin-right: 570px;
+    border: radius 20px;
+    font-family: Arial, Helvetica, sans-serif;}
+.print{
+    border-style: initial;
+}
