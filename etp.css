@@ -11,19 +11,19 @@ html {
 }
 .html {
     font-family: cursive;
-  
-
-
-    
-    font-size: x-large;
+}
+.left{
+    margin-right: 20px;
 }
 h1 {
+    margin-left: 230px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
 }
 .project {
     
-   
-    margin-left: 100px;
+   margin-left: 70px;
+    display: flex;
     
 }
 .backbutton {
@@ -34,4 +34,51 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;}
 .print{
     border-style: initial;
+    display: flex;
+}
+
+.images{
+    border-style: ridge;
+    border-color: black;
+}
+
+.right{
+    margin-right: 70px;
+    margin-top: 10px;
+}
+.ai{
+    display: flex;
+}
+.expl{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: xx-small;
+    font-family: 'Times New Roman', Times, serif;
+}
+.expltw{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: xx-small;
+    font-family: 'Times New Roman', Times, serif;
+}
+.html{
+    display: flex;
+}
+.print{
+    display: flex;
+}
+.explthr{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: xx-small;
+    font-family: 'Times New Roman', Times, serif;
+}
+.vex{
+    display: flex;
+}
+.explfr{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: xx-small;
+    font-family: 'Times New Roman', Times, serif;
 }

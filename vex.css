@@ -1,0 +1,50 @@
+html{
+    background-image: url(images/3dpback.png);background-size: cover;
+}
+.backbutton {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.total{
+    display: flex;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkkhaki;
+    margin-left: 50px;
+}
+ul{
+    font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkkhaki;
+    
+
+}
+.vexr{
+    margin-left: 50px;
+    border-color: black;
+    border-style: dashed;
+}
+.vexr2{
+    margin-left: 20px;
+    border-color: black;
+    border-style: dashed;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
+.overview{
+    margin-left: 20px;
+   
+}
+.progress{
+    margin-left: 20px;
+}
+.explanation{
+    margin-left: 20px;
+}

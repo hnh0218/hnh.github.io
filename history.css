@@ -1,0 +1,37 @@
+html{
+    background-image: url(images/hisback.jpg);background-size: cover;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+.project{
+    font-family: 'Times New Roman', Times, serif;
+}
+.first{
+    display: flex;
+    margin-left: 20px;
+}
+.esse2{
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+.explth{
+    font-family: 'Times New Roman', Times, serif;
+}
+.two{
+    display: flex;
+    margin-left: 20px;
+}
+.expltw{
+    margin-left: 10px;
+}
+.explth{
+    margin-left: 10px;
+}
+.backbutton {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}

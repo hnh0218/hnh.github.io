@@ -1,0 +1,92 @@
+html{
+    background-image: url(images/3dpback.png);background-size: cover;
+}
+.backbutton {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.hourglass{
+    margin-left: 50px;
+    margin-top: 50px;
+  display: flex;
+ 
+}
+.sample1{
+    border-style: solid;
+    border-color: brown;
+    margin-left: 3px;
+    background-color: bisque;
+}
+.tdo{
+    border-style: solid;
+    border-color: brown;
+    background-color: darksalmon;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    margin-left: 180px;
+}
+.top{
+    display: flex;
+}
+.tdtw{
+    margin-left: 100px;
+    border-style: solid;
+    border-color: brown;
+    background-color: darksalmon;
+}
+.sample2{
+    margin-right: 50px;
+    border-style: solid;
+    border-color: brown;
+    margin-left: 3px;
+    background-color: bisque;
+}
+.bottom{
+    display: flex;
+}
+.max{
+    display: flex;
+    margin-top: 50px;
+}
+.tdt{
+    margin-left: 50px;
+    border-style: solid;
+    border-color: brown;
+    background-color: darksalmon;
+}
+.sample3{
+    margin-right: 20px;
+    border-style: solid;
+    border-color: brown;
+    margin-left: 3px;
+    background-color: bisque;
+}
+.phone{
+    display: flex;
+    margin-right: 50px;
+   
+}
+.tdf{
+    margin-left: 80px;
+    border-style: solid;
+    border-color: brown;
+    background-color: darksalmon;
+}
+.tdf1{
+    margin-right: 30px;
+    border-style: solid;
+    border-color: brown;
+    margin-left: 3px;
+    background-color: bisque;
+}
+
+.explanation{
+    font-family: 'Times New Roman', Times, serif;
+}
