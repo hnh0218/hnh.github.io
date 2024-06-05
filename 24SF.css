@@ -1,0 +1,95 @@
+html{
+    background-image: url(background1.jpg);background-size: cover;
+
+}
+.one{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
+    margin-left: 500px;
+    border-color: darkslateblue;
+    border-style: ridge;
+    margin-right: 610px;
+    background-color: darkslateblue;
+    color: white;
+}
+.two{
+    font-family: monospace;
+    margin-top: 30px;
+    margin-left: 430px;
+}
+h3 {
+    border-style: solid;
+    background-color: steelblue;
+    color: azure;
+    margin-right: 900px;
+    font-size: xx-large;
+    margin-left: 50px;
+}
+h4 {
+    border-style: solid;
+    background-color: steelblue;
+    color: azure;
+    margin-right: 1150px;
+    font-size: xx-large;
+    
+}
+p {
+
+    margin-left: 50px; 
+    font-size: larger;
+font-family: monospace;}
+
+ol {
+    margin-left: 50px; 
+    font-size: larger;
+}
+.experiment {
+    background-color: beige;
+    
+}
+.pic {
+    margin-left: 50px;
+}
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    background-color: lightslategray;
+    color: white;
+    border-style: solid;
+}
+h2 {
+
+}
+.ask {
+    background-color: beige;
+}
+.imagine {
+    background-color: beige;
+}
+.plan {
+    background-color: beige;
+}
+.des {
+    background-color: beige;
+}
+.imp {
+    background-color: beige;
+}
+.ovp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    background-color: lightslategray;
+    color: white;
+    border-style: solid;
+    margin-right: 1100px;
+}
+.op{
+    background-color: beige;
+}
+.backbutton {
+    background-color: floralwhite;
+    border-style: ridge;
+    border-color: black;
+    margin-right: 1300px;
+    margin-left: 30px;
+}

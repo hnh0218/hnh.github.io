@@ -1,9 +1,10 @@
 html {
     background-image: url(images/etprojectback.png);background-size: cover;
 }
-.ai {
+.ai 
+{
     font-family: cursive;
-    color: black
+    color: black;
     border-color: bisque;
     
   
@@ -81,4 +82,13 @@ h1 {
     margin-left: 10px;
     font-size: xx-small;
     font-family: 'Times New Roman', Times, serif;
+}
+.explfm{
+    margin-left: 15px;
+    margin-top: 10px;
+    font-size: xx-small;
+    font-family: 'Times New Roman', Times, serif;
+}
+.stemfair{
+    display: flex;
 }
